@@ -1,0 +1,5 @@
+DataData100 task:
+
+Recording the music I listen to every hour of the day, following the artist and genre to see how I feel like throughout the day based on what genre I am listening to.
+
+
